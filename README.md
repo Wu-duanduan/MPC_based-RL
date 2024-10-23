@@ -18,9 +18,9 @@ Bibtex:
     journal={IEEE Intelligent Systems}, 
     title={Model predictive control–based value estimation for efficient reinforcement learning}, 
     year={2024},
-    volume={},
-    number={},
-    pages={1-10},
+    volume={39},
+    number={3},
+    pages={63-72},
     keywords={Predictive models;Neural networks;Trajectory;Data models;Computational modeling;Training;Optimization},
     doi={10.1109/MIS.2024.3386204}}
 
