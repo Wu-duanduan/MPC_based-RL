@@ -9,7 +9,7 @@ Dependencies:
 
 Citation:
 
-    Q. Wu, K. Liu and L. Chen, "Model predictive control–based value estimation for efficient reinforcement learning," in IEEE Intelligent Systems, doi: 10.1109/MIS.2024.3386204 (https://ieeexplore.ieee.org/document/10494864)
+    Q. Wu, K. Liu and L. Chen, "Model Predictive Control-Based Value Estimation for Efficient Reinforcement Learning," in IEEE Intelligent Systems, vol. 39, no. 3, pp. 63-72, May-June 2024, doi: 10.1109/MIS.2024.3386204.
 
 Bibtex:
 
